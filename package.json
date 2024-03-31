@@ -1,0 +1,21 @@
+{
+  "name": "cli-atm-machine-test",
+  "version": "5.0.0",
+  "description": "It Is An Simple Command Line Atm Machine ",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "cli-atm-machine-test": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhib ALi Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
